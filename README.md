@@ -108,3 +108,9 @@ source env/bin/activate
 # deactivate environment
 
 deactivate
+
+# install dependencies
+
+pip3 install -r requirements.txt
+
+where requirements contains all the necesary modules
