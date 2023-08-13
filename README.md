@@ -113,4 +113,4 @@ deactivate
 
 pip3 install -r requirements.txt
 
-where requirements contains all the necesary modules
+requirements.txt contains all the necesary modules
