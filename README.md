@@ -93,3 +93,18 @@ $ project_name
 ## Development
 
 Read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## Create and activate virtual environments
+
+inside a folder:
+python3 -m venv env
+
+whe env is the mane of the virtual environment
+
+# activate environment:
+
+source env/bin/activate
+
+# deactivate environment
+
+deactivate
